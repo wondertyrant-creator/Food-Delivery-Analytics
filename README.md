@@ -1,6 +1,8 @@
 # **Food Delivery Analytics**
 
 ## **Overview**
+link to google sheets
+https://docs.google.com/spreadsheets/d/1UCLWg03siTU527L-KI8X7kIFFHQ0EKiWsGNe84vYCBk/edit?usp=sharing
 
 An end-to-end data analytics project examining **15,000 food delivery orders** across **36 variables** to uncover operational inefficiencies, customer behaviour patterns, and revenue opportunities.
 
