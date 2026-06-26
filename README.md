@@ -24,7 +24,6 @@ food-delivery-analytics/
 │  
 ├── README.md  
 ├── INSIGHTS.md
-
 │  
 ├── data/  
 │   └── food\_delivery\_analytics\_cleaned.csv  
@@ -33,15 +32,6 @@ food-delivery-analytics/
     └── food\_delivery\_analysis\_v2.xlsx  
 ---
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## **Dataset Overview**
 
@@ -140,11 +130,7 @@ See **INSIGHTS.md** for the complete analysis and business recommendations.
 
 ---
 
-## 
 
-## 
-
-## 
 
 ## **Methodology**
 
