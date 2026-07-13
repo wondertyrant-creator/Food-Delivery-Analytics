@@ -4,6 +4,8 @@
 link to google sheets
 https://docs.google.com/spreadsheets/d/1UCLWg03siTU527L-KI8X7kIFFHQ0EKiWsGNe84vYCBk/edit?usp=sharing
 
+Data: https://www.kaggle.com/datasets/deepeshkansotia/food-delivery-operations-and-customer-analytics
+
 An end-to-end data analytics project examining **15,000 food delivery orders** across **36 variables** to uncover operational inefficiencies, customer behaviour patterns, and revenue opportunities.
 
 The analysis was completed entirely in **Google Sheets** using formulas, lookup tables, dashboards, and pivot tables—demonstrating how meaningful business insights can be generated without programming tools.
